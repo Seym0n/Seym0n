@@ -1,5 +1,5 @@
-<h1 align="left">hi, i'm simon</h1>
-<p align="center">software & ai engineer · m.sc. computer science</p>
+hi, i'm simon
+software & ai engineer · m.sc. computer science
 
 <br>
 
@@ -16,7 +16,5 @@ i build web tools and ai apps.
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Seym0n/Seym0n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
-  <img src="https://raw.githubusercontent.com/Seym0n/Seym0n/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
-</p>
+<img src="https://raw.githubusercontent.com/Seym0n/Seym0n/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark" />
+<img src="https://raw.githubusercontent.com/Seym0n/Seym0n/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light" />
